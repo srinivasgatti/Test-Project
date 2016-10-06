@@ -1,0 +1,11 @@
+{
+    "name": "srinivasgatti/testproj",
+    "description": "testing",
+    "authors": [
+        {
+            "name": "Srinivas Gatti",
+            "email": "srinivas.gatti@hiddenbrains.in"
+        }
+    ],
+    "require": {}
+}
